@@ -22,6 +22,17 @@
   display: block;
 }
 
+.sidelinks
+{
+  font-family: monospace;
+  padding: 10px 8px 6px 16px;
+  text-decoration: none;
+  text-align: left; 
+  font-size: 25px;
+  color: white;
+  display: block;
+}
+
 .sidelink:hover{
   background-color: white;
   color: black;
